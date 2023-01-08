@@ -18,6 +18,8 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Manasa2506&theme=onestar)
 
+![](https://komarev.com/ghpvc/?username=Manasa2506)
+
 
 
 <!--
