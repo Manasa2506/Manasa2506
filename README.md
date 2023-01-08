@@ -14,6 +14,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manasa2506)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Manasa2506&theme=onestar)
 
 
