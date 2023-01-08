@@ -1,6 +1,9 @@
-### Hi there 
+### Hi there! I am an undergraduate student in B.TECH  computer science engineering with big data analytics at S.R.M Institute Of Science and Technology.
+​
 - 🔭 I’m currently working on Data Science and Machine Learning Projects
-- 🌱 I’m currently learning Big Data Analytics and Data Science
+- 🌱 Im a quick learner ,dedicated, determined  and one of my strengths is to interact well with people  which also helps with effective group work. I've been interested in problem solving, python, c++ and i have been very enthusiastic in web development and  big data lately,  I have also attended few workshops on Artificial intelligence and Machine Learning and would love to learn more about it. I would also love to learn application development and java as well.
+
+​
 ---
 
 ### :fire: My Stats :
