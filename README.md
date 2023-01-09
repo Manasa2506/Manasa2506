@@ -22,11 +22,14 @@ I am an undergraduate student pursuing B.Tech Computer Science and Engineering w
 
 ### :fire: My Stats :
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Manasa2506&count_private=true&theme=tokyonight&showicons=true)]()
+<img src="https://github-readme-stats.vercel.app/api?username=Manasa2506&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manasa2506&theme=radical"/>
+
+[![My GitHub Stats] <img src="https://github-readme-stats.vercel.app/api?username=Manasa2506&show_icons=true&theme=radical"/>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Manasa2506&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manasa2506)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs] <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manasa2506&theme=radical"/>
 
 ---
 
