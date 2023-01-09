@@ -1,9 +1,23 @@
-### Hi there! I am an undergraduate student in B.TECH  computer science engineering with big data analytics at S.R.M Institute Of Science and Technology.
-​
-- 🔭 I’m currently working on Data Science and Machine Learning Projects
-- 🌱 Im a quick learner ,dedicated, determined  and one of my strengths is to interact well with people  which also helps with effective group work. I've been interested in problem solving, python, c++ and i have been very enthusiastic in web development and  big data lately,  I have also attended few workshops on Artificial intelligence and Machine Learning and would love to learn more about it. I would also love to learn application development and java as well.
+### Hi there 👋
 
-​
+I am an undergraduate student pursuing B.Tech Computer Science and Engineering with Big Data Analytics at SRM Institute Of Science and Technology. I'm a quick learner ,dedicated, determined  and one of my strengths is to interact well with people  which also helps with effective group work. I've been interested in problem solving, python, c++ and i have been very enthusiastic in web development and  big data lately,  I have also attended few workshops on Artificial intelligence and Machine Learning and would love to learn more about it. I have worked on multiple Data Science and Machine Learning projects, and would love to learn application development and java in the future.
+
+---
+
+### 💻Tech:
+
+<img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg' width=30 height=30/> 
+<img src='https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg' width=30 height=30/> 
+
+---
+
+### Certifications:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Coursera-0056D2?style=plastic&logo=Coursera&logoColor=white" height=30>
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=plastic&logo=amazonaws&logoColor=white" height=30>
+</p>
+
 ---
 
 ### :fire: My Stats :
@@ -14,11 +28,21 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manasa2506)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
+### 🏆My Trophies :
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Manasa2506&theme=onestar)
 
 ![](https://komarev.com/ghpvc/?username=Manasa2506)
+
+### 📈My Contributions:
+
+<hr>
+
+![Manasa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Manasa2506&bg_color=000000&color=ffffff&line=c800ff&point=ffffff&area=true&hide_border=true)
+
+<hr>
 
 
 
