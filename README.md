@@ -4,6 +4,7 @@ I am an undergraduate student pursuing B.Tech Computer Science and Engineering w
 
 ---
 
+
 ### 💻Tech:
 
 <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg' width=30 height=30/> 
