@@ -17,7 +17,7 @@ I am an undergraduate student pursuing B.Tech Computer Science and Engineering w
 <p align="center">
   <img src="https://img.shields.io/badge/Coursera-0056D2?style=plastic&logo=Coursera&logoColor=white" height=30>
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=plastic&logo=amazonaws&logoColor=white" height=30>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-FF9900?style=plastic&logo=amazonaws&logoColor=white" height=30>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-FF9900?style=plastic&logo=Microsoftazure&logoColor=white" height=30>
 </p>
 
 ---
