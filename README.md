@@ -3,7 +3,6 @@
 I am an undergraduate student pursuing B.Tech Computer Science and Engineering with Big Data Analytics at SRM Institute Of Science and Technology. I'm a quick learner ,dedicated, determined  and one of my strengths is to interact well with people  which also helps with effective group work. I've been interested in problem solving, python, c++ and i have been very enthusiastic in web development and  big data lately,  I have also attended few workshops on Artificial intelligence and Machine Learning and would love to learn more about it. I have worked on multiple Data Science and Machine Learning projects, and would love to learn application development and java in the future.
 
 ---
-
 ### 💻Tech:
 
 <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg' width=30 height=30/> 
