@@ -47,8 +47,6 @@ I am an undergraduate student pursuing B.Tech Computer Science and Engineering w
 
 <hr>
 
-
-
 <!--
 **Manasa2506/Manasa2506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
